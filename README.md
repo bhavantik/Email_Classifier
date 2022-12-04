@@ -10,4 +10,5 @@ Procedure:
 4.	Logistic Arrangements (meeting scheduling, technical support, etc) 
 5.	Employment arrangements (job seeking, hiring, recommendations, etc) 
 6.	Document editing/checking (collaboration) 
+
 •	Train and test the model and report the performance
