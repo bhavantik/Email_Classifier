@@ -1,9 +1,12 @@
 # Email_Classifier
-Objective: Build an AI model to classify emails into different categories based on the content of the emails
+<b>Objective:</b> Build an AI model to classify emails into different categories based on the content of the emails
 Data: Please download the "A subset of about 1700 labelled email messages" from https://bailando.berkeley.edu/enron_email.html
 Procedure: 
+
 •	Pre-process and clean the data 
+
 •	Build a model to categorize them into the following classes 
+
 1.	Company Business, Strategy, etc. (elaborate in Section 3 [Topics])
 2.	 Purely Personal 
 3.	Personal but in professional context (e.g., it was good working with you) 
